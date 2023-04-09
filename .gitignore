@@ -1,0 +1,9 @@
+# Project Folders
+node_modules
+.env
+client/dist
+
+# Project Files
+Anime_Tracker_Google_Search.png
+Anime_Tracker_Web_Application_Techinical_Document.pdf
+performance_screenshot.jpg
